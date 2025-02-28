@@ -1,4 +1,4 @@
-/*
+/* Program: Student Database with Structures
 * Basic structure program that accepts
 * name, age, and grade as user input
 * in a struct and displays the details.
