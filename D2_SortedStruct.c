@@ -2,7 +2,6 @@
     Program: Student Grade Sorting System
     Description: 
         - This program accepts a list of students, including their names and two grades.
-        - It ensures valid input by checking that names contain only letters and grades are numeric.
         - It calculates the total grades for each student and sorts them in descending order.
         - The sorted list is then displayed with names and total grades.
     
