@@ -3,18 +3,6 @@ Program: Sort Even & Odd Indexed Elements
 Description:
 - Sort even-indexed elements in **ascending** order.
 - Sort odd-indexed elements in **descending** order.
-
-Input:
-N = 6
-Arr = [3, 1, 4, 1, 5, 9]
-
-Processing:
-- Even indices (0,2,4): [3, 4, 5] → Sort Ascending → [3, 4, 5]
-- Odd indices (1,3,5): [1, 1, 9] → Sort Descending → [9, 1, 1]
-- Merge back: [3, 9, 4, 1, 5, 1]
-
-Output:
-3 9 4 1 5 1
 */
 
 #include <stdio.h>
