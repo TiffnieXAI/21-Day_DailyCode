@@ -3,7 +3,6 @@
 // Program Description:
 // This program allows the user to input a list of students along with their grades.
 // It dynamically stores the student data using a struct and ensures input validation.
-// The program will later sort the students in descending order of grades (to be implemented).
 // Created for practice with structs, arrays, input validation, and sorting.
 
 void checkLoop (int *n, int *nCheck);
