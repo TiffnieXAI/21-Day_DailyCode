@@ -8,7 +8,6 @@
     Features:
         - Input validation for names and grades
         - Uses structs to store student data
-        - Implements Selection Sort to order students by total grades
 */
 
 #include <stdio.h>
